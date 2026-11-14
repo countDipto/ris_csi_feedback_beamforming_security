@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+# generated data (rebuild with code/dataset/dataset_generation.ipynb)
+data/
